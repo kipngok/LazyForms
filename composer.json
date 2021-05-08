@@ -1,17 +1,17 @@
 {
-    "name": "vendor_slug/package_slug",
+    "name": "mbitrix/lazyForms",
     "description": ":package_description",
     "keywords": [
-        ":vendor_name",
+        ":mbitrix",
         "laravel",
-        "package_slug"
+        "lazyForms"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/mbitrix/lazyForms",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": ":kipngok",
+            "email": "kipngok@mbitrix.com",
             "role": "Developer"
         }
     ],
